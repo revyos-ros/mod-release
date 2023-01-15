@@ -1,0 +1,6 @@
+name: "mod"
+type: "cmake"
+dependencies:
+ - "ompl-devel"
+ - "eigen3-devel"
+ - "boost-devel"
