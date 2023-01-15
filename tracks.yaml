@@ -1,3 +1,4 @@
+release_repo_url: git@bitbucket.org:mapsofdynamics/mod-release.git
 tracks:
   humble:
     actions:
